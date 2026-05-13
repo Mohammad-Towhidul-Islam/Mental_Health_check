@@ -1,0 +1,1 @@
+Open index.html in browser. Fill the form and click Show My Result. No backend needed.
